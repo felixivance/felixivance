@@ -11,7 +11,7 @@ Cyber Security Pentesting, Kali Tools Fanatic
 
 
 ### Stats
-[![Felix Ivance's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixivance)](https://github.com/felixivance/github-readme-stats)
+[![Felix Ivance's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixivance&theme=dracula)](https://github.com/felixivance/github-readme-stats)
 <hr/>
 
 ### <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> Top Languages
