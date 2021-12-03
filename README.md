@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### <p align="center"> Hi there 👋 </p>
+### <p align="center"> <> who am i: </> I am Felix Ivance Runye </p>
 
 I build open source software /apps that is used by startups, and hopefully you and/or your company, too!
 
@@ -10,5 +10,6 @@ Currently working with Android & Ios Apps (Kotlin, Flutter, Xcode), Web Developm
 Cyber Security Pentesting, Kali Tools Fanatic
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixivance)](https://git.io/streak-stats)
 <!--
 **felixivance/felixivance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
