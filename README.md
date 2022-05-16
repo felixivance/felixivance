@@ -17,7 +17,7 @@ Cyber Security Pentesting, Kali Tools Fanatic
 ### <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixivance)](https://git.io/streak-stats)
 
-[![Felix Ivance StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3240557&layout=compact)](https://stackoverflow.com/users/3240557/felix-runye)
+[![Felix Ivance StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3240557&theme=dark)](https://stackoverflow.com/users/3240557/felix-runye)
 
 <hr/>
 
