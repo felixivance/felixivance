@@ -13,11 +13,12 @@ Cyber Security Pentesting, Kali Tools Fanatic
 | --------------- | --------------- | 
 | [![Felix Ivance's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixivance&theme=dracula)](https://github.com/felixivance/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixivance&layout=compact)](https://github.com/felixivance/github-readme-stats) |
 <hr>
-|
-### <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixivance)](https://git.io/streak-stats)|
 
-[![Felix Ivance StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3240557&theme=dark)](https://stackoverflow.com/users/3240557/felix-runye)|
+| --------------- | --------------- | 
+| ### <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felixivance)](https://git.io/streak-stats) |
+
+[![Felix Ivance StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3240557&theme=dark)](https://stackoverflow.com/users/3240557/felix-runye) |
 
 <hr/>
 
