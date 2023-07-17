@@ -7,7 +7,6 @@ I love building and breaking stuff.
 
 Currently working with Android & Ios Apps (Kotlin, Flutter, Xcode), Web Development PHP Laravel Framework, Vue Js & React (NextJs) 
 
-Cyber Security Pentesting, Kali Tools Fanatic
 
 |  Stats |  <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> Top Languages | 
 | --------------- | --------------- | 
