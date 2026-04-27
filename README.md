@@ -38,7 +38,7 @@ I leverage AI as a force multiplier — not to replace craft, but to accelerate 
 ### Philosophy
 
 > "Build software as if the next developer maintaining it is a violent psychopath who knows where you live."  
-> — *Paraphrasing John Woods*
+> — *John Woods*
 
 I believe in:
 - **Simplicity over cleverness** — readable code beats "smart" code
