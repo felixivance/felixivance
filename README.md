@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Felix Ivance Runye</h1>
+<h1 align="center">Hi, I'm Felix Ivance</h1>
 <p align="center">Senior Software Engineer · Mobile & Web</p>
 
 ---
